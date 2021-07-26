@@ -21,8 +21,9 @@ public class Main {
 		
 		String myString = JOptionPane.showInputDialog("Enter a number of items: ");
 		int myNumber = Integer.parseInt(myString);
-		System.out.println(myNumber);
+		//System.out.println(myNumber);
 		
 	}
+	
 	
 }
